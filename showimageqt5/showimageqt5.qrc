@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>reddot.png</file>
+        <file>images/qzlogo.png</file>
+    </qresource>
+</RCC>
